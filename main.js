@@ -16,7 +16,7 @@ let data = {
   add_wallpaper() {
     function getRndm(min, max) {
       num_wallp = Math.floor(Math.random() * (max - min + 1) ) + min;
-      document.body.style.backgroundImage = `url(wallpaper/wallp${num_wallp}.jpg)`;
+      document.body.style.backgroundImage = `url(wallp${num_wallp}.jpg)`;
     }
     getRndm(1, 10);
   }, 
