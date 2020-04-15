@@ -2,7 +2,7 @@
   --data-background: rgba(204, 204, 204, 0.5);
 }
 body {
-  background-image: url(wallpaper/wallp1.jpg);
+  background-image: url(wallp1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed; 
