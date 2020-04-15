@@ -12,6 +12,10 @@ body {
   margin: 0;
 
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 * {
   transition: 0.4s ease-in-out;
   font-family: 'Montserrat', sans-serif;
