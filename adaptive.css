@@ -47,7 +47,7 @@
   }
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 990px) {
   .temp-block-one div:nth-of-type(2) {
     display: flex;
     justify-content: center;
