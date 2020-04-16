@@ -28,7 +28,7 @@
     border: 2px solid #333333;
     padding: 6px;
     width: 80%;
-    font-size: 20pt;
+    font-size: 22pt;
     background: rgba(200, 200, 200, 0.2);
     color: black;
     letter-spacing: 2px;
@@ -53,22 +53,22 @@
     justify-content: center;
   }
   #temp-data {
-    font-size: 30pt;
+    font-size: 34pt;
     width: 200px;
     margin-left: 80px;
   }
   #search-city-input {
     padding: 6px;
     width: 70%;
-    font-size: 18pt;
+    font-size: 22pt;
     letter-spacing: 0px;
   }
-  #temp-feel-data {font-size: 30pt;}
-  #vlaga-data {font-size: 30pt;}
-  #wind-speed {font-size: 30pt;}
-  #wind-deoganal {font-size: 30pt;}
-  #clouds-data {font-size: 30pt;}
-  #button-search {font-size: 18pt;}
+  #temp-feel-data {font-size: 34pt;}
+  #vlaga-data {font-size: 34pt;}
+  #wind-speed {font-size: 34pt;}
+  #wind-deoganal {font-size: 34pt;}
+  #clouds-data {font-size: 34pt;}
+  #button-search {font-size: 20pt;}
 
   .temp-data-block {
     display: flex;
@@ -112,7 +112,7 @@
   #check-wiki {
     padding: 6px;
     width: 97%;
-    font-size: 20pt;
+    font-size: 22pt;
     letter-spacing: 1px;
     text-align: left;
   }
